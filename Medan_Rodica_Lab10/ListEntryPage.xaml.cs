@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-
+    
 namespace Medan_Rodica_Lab10
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
